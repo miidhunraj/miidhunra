@@ -85,7 +85,8 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ## 🏆 GitHub Achievements
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miidhunraj&theme=radical&no-frame=true&margin-w=10"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=miidhunraj&color=blue)
