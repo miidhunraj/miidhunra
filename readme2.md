@@ -7,6 +7,14 @@
 
 ---
 
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miidhunraj&show_icons=true&theme=tokyonight" alt="Midhun's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+
 ### 🚀 About Me
 I'm a **BCA Student** at **Srinivas Institute of Computer Science and Information Science**. I spend my time balancing my degree, working part-time at **Wow! Momo**, and building automation tools. My ultimate goal? Building a **J.A.R.V.I.S.-like AI assistant**.
 
