@@ -89,4 +89,4 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miidhunraj&layout=compact&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=miidhunraj&color=blue)
+![](https://komarev.com/ghpvc/?username=miidhunraj&color=orange)
