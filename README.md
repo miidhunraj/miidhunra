@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Midhun%20Raj&fontSize=40&fontAlignY=35)
+
 <h1 align="center">Hi 👋, I'm Midhun Raj</h1>
 <h3 align="center">Cybersecurity Enthusiast | AI Explorer | BCA Student</h3>
 
