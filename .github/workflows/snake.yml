@@ -11,21 +11,18 @@ contents: write
 jobs:
 snake:
 runs-on: ubuntu-latest
-
-```
 steps:
-  - name: Generate GitHub contribution snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: miidhunraj
-      outputs: |
-        dist/snake.svg
-        dist/snake-dark.svg?palette=github-dark
+- name: Generate GitHub contribution snake
+uses: Platane/snk@v3
+with:
+github_user_name: miidhunraj
+outputs: |
+dist/github-contribution-grid-snake.svg
+dist/github-contribution-grid-snake-dark.svg
 
-  - name: Deploy snake animation
+  - name: Push snake to output branch
     uses: peaceiris/actions-gh-pages@v3
     with:
       github_token: ${{ secrets.GITHUB_TOKEN }}
       publish_dir: ./dist
       publish_branch: output
-```
