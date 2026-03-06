@@ -37,7 +37,7 @@ I'm a Cybersecurity-focused BCA student at Srinivas University, Pandeshwar Campu
 
 ##  Projects
 
-🔹 **Gesture Controlled Mouse**  
+🔹 **Air-Gap**  
 AI-based hand gesture system to control mouse actions using OpenCV + MediaPipe.
 
 🔹 **Instagram OSINT Telegram Bot**  
@@ -52,21 +52,18 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 ---
 
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=miidhunraj&theme=tokyonight"/>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/midhunraj06  
-💻 GitHub: https://github.com/miidhunraj  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/midhunraj06)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/miidhunraj)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/midhun_raj)
 
----
 
 
 ![](https://komarev.com/ghpvc/?username=miidhunraj&color=orange) 
