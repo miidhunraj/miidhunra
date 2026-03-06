@@ -1,4 +1,3 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Midhun%20Raj&fontSize=40&fontAlignY=35)
 
 <h1 align="center">Hi 👋, I'm Midhun Raj</h1>
 <h3 align="center">Cybersecurity Enthusiast | AI Explorer | BCA Student</h3>
@@ -85,6 +84,6 @@ Voice controlled assistant capable of executing PC commands and AI responses.
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miidhunraj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0077FF&height=200&section=header&text=Midhun%20Raj&fontSize=40)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miidhunraj&theme=onedark&row=1&column=6&margin-w=15&margin-h=15"/>
+</p>
